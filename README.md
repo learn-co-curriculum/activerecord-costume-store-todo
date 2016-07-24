@@ -192,7 +192,7 @@ Candy.last
 # => #<Candy id: 3, name: "Reese's Peanut Butter Cups", calories: 210>
 ```
 
-Isn't that amazing? Twelve lines of code allows you to create a table and a class that interact with each other elegantly and efficiently. It builds out methods like, `create`, `update`, `count`, `name`, `calories`, along with others such as `build` and `save`.
+Isn't that amazing? Eleven lines of code allows you to create a table and a class that interact with each other elegantly and efficiently. It builds out methods like, `create`, `update`, `count`, `name`, `calories`, along with others such as `build` and `save`.
 
 ## Instructions
 
@@ -236,5 +236,3 @@ You will only be altering code in six files, the three files in the `models` fol
 * [Timestamps](http://api.rubyonrails.org/classes/ActiveRecord/Timestamp.html)
 
 <p data-visibility='hidden'>View <a href='https://learn.co/lessons/activerecord-costume-store-todo' title='ActiveRecord Costume Store'>ActiveRecord Costume Store</a> on Learn.co and start learning to code for free.</p>
-
-<p class='util--hide'>View <a href='https://learn.co/lessons/activerecord-costume-store-todo'>Migrations and Active Record Lab</a> on Learn.co and start learning to code for free.</p>
